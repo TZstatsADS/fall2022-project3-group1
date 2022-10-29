@@ -5,13 +5,13 @@
 
 Term: Fall 2022
 
-+ Team ##
++ Team ##3
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Chengming He
+	+ Kartik Kotian
+	+ Gabriel Spade
+	+ Zeya Ahmad
+	+ Zhongcheng Tu
 
 + Project summary: In this project, we created ...
 	
