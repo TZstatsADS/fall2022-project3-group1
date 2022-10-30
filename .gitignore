@@ -1,2 +1,5 @@
 
 data/train_data.zip
+data/clean_labels.csv
+data/noisy_labels.csv
+*.png
