@@ -1,7 +1,6 @@
 ### Doc folder
 
 The doc directory contains the report or presentation files. It can have subfolders.
- - main.ipynb contains code for training model 1
  - Final_Model1_(Kartik).ipynb contains code for model 1 that gave best test accuracy.
  - Kartik_Model1_Trials.ipynb contains code for different models trained on noisy labels. (Model 1)
  - Chengming_He_training_model2.ipynb contains code for cleaning labels using densenet
