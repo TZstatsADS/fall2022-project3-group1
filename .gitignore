@@ -2,7 +2,6 @@
 data/train_data.zip
 data/clean_labels.csv
 data/noisy_labels.csv
-*.png
 .DS_Store
 model2_training/utils/__pycache__
 doc/.ipynb_checkpoints/
