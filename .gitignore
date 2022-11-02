@@ -5,4 +5,5 @@ data/noisy_labels.csv
 *.png
 .DS_Store
 model2_training/utils/__pycache__
-
+doc/.ipynb_checkpoints/
+lib/utils/__pycache__/
