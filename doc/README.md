@@ -6,6 +6,7 @@ The doc directory contains the report or presentation files. It can have subfold
  - Kartik_Model1_Trials.ipynb contains code for different models trained on noisy labels. (Model 1)
  - Chengming_He_training_model2.ipynb contains code for cleaning labels using densenet
  - Chengming_He_training_model2_2.ipynb contains code for cleaning labels using resnet
+ - gabe_model1.ipynb contains a simple model 1
  - project3_desc.md is the project description markdown file
  - a_note_on_contributions.md contains the contribution statement 
  - .ipynb_checkpoints directory contains checkpoint files
