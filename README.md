@@ -24,7 +24,6 @@ proj/
 ├── lib/
 ├── data/
 ├── doc/
-├── figs/
 └── output/
 ```
 
