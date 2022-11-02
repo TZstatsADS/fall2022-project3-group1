@@ -6,3 +6,4 @@ data/noisy_labels.csv
 model2_training/utils/__pycache__
 doc/.ipynb_checkpoints/
 lib/utils/__pycache__/
+*.png
